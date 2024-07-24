@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import Merch from "../Assets/Images/Merch.png"
+import Merch from "@/Assets/Images/Merch.png"
 
 export default function Images()
 {

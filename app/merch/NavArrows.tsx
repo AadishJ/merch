@@ -1,5 +1,5 @@
-import RightArrow from "../Assets/SVG/-_.svg";
-import LeftArrow from "../Assets/SVG/leftArrow.svg";
+import RightArrow from "@/Assets/SVG/-_.svg";
+import LeftArrow from "@/Assets/SVG/leftArrow.svg";
 export default function NavArrows()
 {
     return (
