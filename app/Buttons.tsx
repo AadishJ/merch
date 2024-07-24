@@ -20,7 +20,7 @@ export default function Buttons()
                     <span className="text-xs font-semibold">65</span>
                 </button>
                 <button className="border border-black rounded-3xl px-4 font-noigrotesk font-medium max-sm:h-10 max-sm:text-sm">
-                    MEN'S COLLECTION
+                    MEN&apos;S COLLECTION
                     <span className="text-xs font-semibold">65</span>
                 </button>
                 <button className="border border-black rounded-3xl px-4 font-noigrotesk font-medium max-sm:h-10 max-sm:text-sm">
