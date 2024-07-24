@@ -1,7 +1,7 @@
 import Image from 'next/image';
-import Merch from "@/Assets/Images/Merch.png"
+import Merch from "@/Assets/Images/Luxury.png"
 
-export default function Images()
+export default function Best()
 {
     return (
         <div>

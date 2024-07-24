@@ -1,10 +1,10 @@
-"use client";
-
 import { Badge } from "@/components/ui/badge";
-import { useState } from "react";
+interface ButtonsProps {
+  selectedBadge: string;
+  setSelectedBadge: (badge: string) => void;
+}
 
-export default function Buttons() {
-    const [selectedBadge, setSelectedBadge] = useState("NEW ARRIVALS");
+export default function Buttons({ selectedBadge, setSelectedBadge }: ButtonsProps) {
 
   const badges = [
     "ALL",
